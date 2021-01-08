@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/forma-block-nested",
+	"title": "Forma Block Nested",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"textdomain": "forma-block-nested",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
