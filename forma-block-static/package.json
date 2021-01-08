@@ -1,0 +1,28 @@
+{
+  "name": "forma-wp-gutenberg",
+  "version": "1.0.0",
+  "description": "Example static Gutenberg block",
+  "main": "block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasteDesign/forma-wp-gutenberg.git"
+  },
+  "keywords": [
+    "wordpress",
+    "gutenberg",
+    "block"
+  ],
+  "author": "Forma Haste",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/HasteDesign/forma-wp-gutenberg/issues"
+  },
+  "homepage": "https://github.com/HasteDesign/forma-wp-gutenberg#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "12.6.1"
+  }
+}
